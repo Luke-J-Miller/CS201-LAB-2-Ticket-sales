@@ -1,0 +1,7 @@
+﻿  MillerLab02.cpp
+C:\Users\mille\source\repos\cs201l-lab02_ss22-ljmbm5\MillerLab02.cpp(19,17): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mille\source\repos\cs201l-lab02_ss22-ljmbm5\MillerLab02.cpp(22,17): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mille\source\repos\cs201l-lab02_ss22-ljmbm5\MillerLab02.cpp(25,17): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mille\source\repos\cs201l-lab02_ss22-ljmbm5\MillerLab02.cpp(28,17): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mille\source\repos\cs201l-lab02_ss22-ljmbm5\MillerLab02.cpp(31,17): warning C4553: '==': result of expression not used; did you intend '='?
+  lab02.vcxproj -> C:\Users\mille\source\repos\cs201l-lab02_ss22-ljmbm5\lab02\Debug\lab02.exe
